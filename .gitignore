@@ -1,2 +1,5 @@
 # Environment variables
 SECRET_KEY.env
+SECRET_KEY.env
+.env
+*.env
