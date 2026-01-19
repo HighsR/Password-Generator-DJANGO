@@ -1,4 +1,3 @@
+PasswordGenerator/SECRET_KEY.env
 .env
 *.env
-SECRET_KEY.env
-SECRET_KEY.env
